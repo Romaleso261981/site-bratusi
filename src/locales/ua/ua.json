@@ -1,0 +1,20 @@
+{
+  "header": {
+    "home": "До дому",
+    "contact": "Контакти",
+    "auth": "Авторизаця",
+    "features": "Особливості",
+    "learn": "Вчитися",
+    "Login": "Вхід",
+    "LogOut": "Вихід",
+    "Contacts": "Контакти",
+    "ViewAll": "Показати все",
+    "ourWorks": "Наші роботи",
+    "Est": "Est. 2010"
+  },
+  "authForm":{
+    "SendSMS":"Відправити SMS",
+    "VerifyNumber":"Верифікація номеру",
+    "CreateAccount":"Створити акаунт"
+  }
+}
